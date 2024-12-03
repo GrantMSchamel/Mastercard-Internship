@@ -5,12 +5,12 @@ This repository showcases the work I completed as part of the **Mastercard Cyber
 ---
 
 ## 📂 Table of Contents  
-1. [Program Overview](#program-overview)  
-2. [Tasks and Deliverables](#tasks-and-deliverables)  
+1. Program Overview  
+2. Tasks and Deliverables  
    - [Task 1: Phishing Email Simulation](#task-1-phishing-email-simulation)  
    - [Task 2: Interpreting Phishing Simulation Results](#task-2-interpreting-phishing-simulation-results)  
-3. [Skills Gained](#skills-gained)  
-4. [Tools and Technologies Used](#tools-and-technologies-used)  
+3. Skills Gained  
+4. Tools and Technologies Used
 
 ---
 
