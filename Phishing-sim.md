@@ -38,7 +38,7 @@ In the original email, I noticed obvious signs of a phishing attempt such as:
 I modified these elements to create a more believable version of the email, while maintaining key characteristics of phishing attacks:
 - Used a professional tone and familiar language
 - Included a seemingly legitimate call-to-action
-- Crafted a convincing scenario involving account security
+- Crafted a convincing scenario involving IT improvement
 
 By understanding how phishing emails work, I can help raise awareness and mitigate the risks they pose to organizations.
 
