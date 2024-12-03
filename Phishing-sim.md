@@ -21,7 +21,8 @@ To ensure we address all issues efficiently, we’re requesting employees report
 
 If you have questions or concerns, feel free to reply to this email.
 
-Thank you for your cooperation! 
+Thank you for your cooperation!
+
 **Mastercard Security Team**  
 
 *This is an automated message. Please do not reply to this email.*
