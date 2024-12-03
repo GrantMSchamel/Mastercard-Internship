@@ -8,7 +8,7 @@ This repository showcases the work I completed as part of the **Mastercard Cyber
 1. Program Overview  
 2. Tasks and Deliverables  
    - [Task 1: Phishing Email Simulation](https://github.com/GrantMSchamel/Mastercard-Internship/blob/main/Phishing-sim.md)  
-   - [Task 2: Interpreting Phishing Simulation Results](#task-2-interpreting-phishing-simulation-results)  
+   - [Task 2: Interpreting Phishing Simulation Results](https://github.com/GrantMSchamel/Mastercard-Internship/blob/main/Phishing-presentation.md)  
 3. Skills Gained  
 4. Tools and Technologies Used
 
@@ -53,7 +53,7 @@ The Mastercard Cybersecurity Virtual Internship provided an opportunity to gain 
   - Created a presentation to recommend tailored training solutions for these teams.  
 
 - **Deliverable:**  
-  - [Security Awareness Presentation](#)  
+  - [Security Awareness Presentation](https://github.com/GrantMSchamel/Mastercard-Internship/blob/main/Phishing-presentation.md)  
 
 ---
 
