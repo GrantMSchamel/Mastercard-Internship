@@ -25,7 +25,6 @@ Thank you for your cooperation!
 
 **Mastercard Security Team**  
 
-*This is an automated message. Please do not reply to this email.*
 
 ---
 
